@@ -1,0 +1,23 @@
+name: arne
+favicon: null
+layout_spectrum: 0.10742044169455767
+typography_spectrum: 0.3832200786564499
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.16217783303000033
+  lightness: 0.4467856215778738
+  saturation: 0.26969769201241434
+  rhythmicContrast: 0.5982389310374856
+purpose: []
